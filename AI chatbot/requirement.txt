@@ -1,0 +1,4 @@
+numpy
+nltk
+random
+tensorflow
